@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Capital\Capital\bin\Debug\netcoreapp2.1\Capital.deps.json
+C:\Users\Admin\source\repos\Capital\Capital\bin\Debug\netcoreapp2.1\Capital.runtimeconfig.json
+C:\Users\Admin\source\repos\Capital\Capital\bin\Debug\netcoreapp2.1\Capital.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Capital\Capital\bin\Debug\netcoreapp2.1\Capital.dll
+C:\Users\Admin\source\repos\Capital\Capital\bin\Debug\netcoreapp2.1\Capital.pdb
+C:\Users\Admin\source\repos\Capital\Capital\obj\Debug\netcoreapp2.1\Capital.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Capital\Capital\obj\Debug\netcoreapp2.1\Capital.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Capital\Capital\obj\Debug\netcoreapp2.1\Capital.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Capital\Capital\obj\Debug\netcoreapp2.1\Capital.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Capital\Capital\obj\Debug\netcoreapp2.1\Capital.dll
+C:\Users\Admin\source\repos\Capital\Capital\obj\Debug\netcoreapp2.1\Capital.pdb
